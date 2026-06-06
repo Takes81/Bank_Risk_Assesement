@@ -1,1 +1,15 @@
-# Bank_Risk_Assesement
+<img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/04243ae3-8f59-44ec-a698-92cc9b8217e8" />
+<img width="1366" height="768" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/e3eef4eb-2813-4e89-a098-13e4d9179a57" />
+<img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/1e7ff1d3-82af-46ca-bab7-536f989a915a" />
+<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/ae08ea1b-790a-4a99-959e-72cf8ab8f106" />
+<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/2801fb90-80b9-43f4-b4b6-6fd497ace0c8" />
+<img width="1366" height="768" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/9d6ca7fa-2f33-4984-9faf-cd09fafdbd67" />
+<img width="1366" height="768" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/8fcf940c-5296-4af2-8e50-cfb690ac5b68" />
+<img width="1366" height="768" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/b061fcfe-3374-4896-8cfa-01f046ad5180" />
+<img width="1366" height="768" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/308c392d-1033-4e7b-92a7-14babd877015" />
+<img width="1366" height="768" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/837ba63c-dcf7-443b-9ebe-d90119db1bf3" />
+<img width="1366" height="768" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/acd0c4fc-a813-4310-9437-938746a78ec9" />
+<img width="1366" height="768" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/dffaeefc-666b-401d-a72f-35c7956e5f4f" />
+<img width="1366" height="768" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/5b8e9734-c977-4f07-b38b-dce0f4439b82" />
+<img width="1366" height="768" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/8567ed83-a3b1-4912-b1dc-6baa431b3b47" />
+<img width="1366" height="768" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/863def1b-f124-42e8-970d-42376334c894" />
